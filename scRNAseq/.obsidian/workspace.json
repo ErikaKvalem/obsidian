@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "57d47a7eeac39991",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62da0238f6e0453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3050c052a596e4",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "scRNAseq_mind_map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "830e9946d23f215e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18319ee4ae4520f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e113aa873473df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccd6fa116ae33a7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7adb9227114a49de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00c75d9c9f6b0f87",
+    "type": "split",
+    "children": [
+      {
+        "id": "8218c3374104f558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2c54d7ecd44590d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scRNAseq_mind_map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37d4eb2f787571f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scRNAseq_mind_map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d13c0757a89d123",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c91df1c22ea3062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scRNAseq_mind_map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e3050c052a596e4",
+  "lastOpenFiles": [
+    "just a try.md",
+    "scRNAseq_mind_map.md",
+    "scanpy_mind_map.md"
+  ]
+}
