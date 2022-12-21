@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "90ce9fbb40b60ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f4e76c0d022a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b61ad8850372b6",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "scRNAseq/scanpy_mind_map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "537c7edf0a62b054",
+    "type": "split",
+    "children": [
+      {
+        "id": "46234579c32d2878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bc28d5546fde4a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a067739feb2de41f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd056227cc58ed1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb06a8c5fbe5db15",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7327e1a5ac203c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fba12dfe2de670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scRNAseq/scanpy_mind_map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ca6e4986af4689f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scRNAseq/scanpy_mind_map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b82369bc8ad17c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0b7d1ecddfefdf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scRNAseq/scanpy_mind_map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5b61ad8850372b6",
+  "lastOpenFiles": [
+    "scRNAseq/scRNAseq_theory_mind_map.md",
+    "literature/Interesting literature.md",
+    "scRNAseq/scanpy_mind_map.md",
+    "Untitled mindmap.md",
+    "scRNAseq/schneeberger-liver-transfusion.md",
+    "scRNAseq/anndata.svg"
+  ]
+}

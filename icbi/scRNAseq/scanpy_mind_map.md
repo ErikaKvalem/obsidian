@@ -20,9 +20,9 @@ mindmap-plugin: basic
    - n observations
       - d-dimensional vectors
          - each dimension = variable/feature
-   - indexed n row &  d columns
+   - indexed n row &  d columns
    - e.g scRNA-seq
-      - row  = cell (barcode)
+      - row  = cell (barcode)
       - column = gene (gene id)
       - For each cell & gene
          - Metadata
@@ -30,7 +30,8 @@ mindmap-plugin: basic
             - alternative gene symbol
       - Unstructured metadata
          - color palettes
-   - 1. Handle sparsity (matriy dispersa)
-      2. Handle unstructured data
-      3. Handles observation & feature-level metadata
-      4. User friendly
+      -
+      - 1. Handle sparsity (matriz dispersa)
+      - 2. Handle unstructured data
+      - 3. Handles observation & feature-level metadata
+      - 4. User friendly
