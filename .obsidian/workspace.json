@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f62da0238f6e0453",
+        "id": "372715779fe3119c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3050c052a596e4",
+            "id": "fbb7b04a0064de5b",
             "type": "leaf",
             "state": {
               "type": "mindmapView",
               "state": {
-                "file": "scRNAseq_mind_map.md"
+                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5026054382324
   },
   "right": {
     "id": "00c75d9c9f6b0f87",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNAseq_mind_map.md",
+                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNAseq_mind_map.md",
+                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scRNAseq_mind_map.md"
+                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
               }
             }
           }
@@ -134,10 +134,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e3050c052a596e4",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fbb7b04a0064de5b",
   "lastOpenFiles": [
-    "just a try.md",
-    "scRNAseq_mind_map.md",
-    "scanpy_mind_map.md"
+    "icbi/literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
+    "Vocabulary^.md",
+    "icbi/literature/Vocabulary.md",
+    "icbi/literature/Current best practices in single-cell RNA-seq analysis a tutorial.md",
+    "title.md",
+    "icbi/literature/Interesting literature.md",
+    "Amplicon sequence variants (ASVs).md",
+    "ASVs.md",
+    "icbi/literature/Identification of neoantigens for individualized therapeutic cancer vaccines.md",
+    "icbi/literature/Identification of bacteria-derived HLA-bound peptides in melanoma.md"
   ]
 }

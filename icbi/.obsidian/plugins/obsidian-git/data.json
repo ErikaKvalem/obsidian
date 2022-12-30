@@ -2,7 +2,7 @@
   "commitMessage": "icbi local vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 5,
   "autoPullOnBoot": true,

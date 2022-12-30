@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "74f4e76c0d022a72",
+        "id": "8690f20c145952af",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b61ad8850372b6",
+            "id": "f04221d5caacb472",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "scRNAseq/scanpy_mind_map.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scRNAseq/scanpy_mind_map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scRNAseq/scanpy_mind_map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "scRNAseq/scanpy_mind_map.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,13 +128,23 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5b61ad8850372b6",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f04221d5caacb472",
   "lastOpenFiles": [
-    "scRNAseq/scRNAseq_theory_mind_map.md",
-    "literature/Interesting literature.md",
-    "scRNAseq/scanpy_mind_map.md",
-    "Untitled mindmap.md",
     "scRNAseq/schneeberger-liver-transfusion.md",
+    "scRNAseq/scRNAseq_theory_mind_map.md",
+    "scRNAseq/scanpy_mind_map.md",
+    "literature/Interesting literature.md",
+    "Untitled mindmap.md",
     "scRNAseq/anndata.svg"
   ]
 }

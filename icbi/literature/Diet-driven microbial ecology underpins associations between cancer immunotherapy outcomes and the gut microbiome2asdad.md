@@ -22,7 +22,7 @@ mindmap-plugin: basic
 - Immune Checkpoint Inhibitors (ICI)
 - Dietary influences
 - Geographic influences
-- Performed
+- Performed/Methods
    - Profile
    - baseline gut (fecal)
    - microbiota signatures
@@ -32,11 +32,280 @@ mindmap-plugin: basic
          - Netherlands
          - Treatment
             - neoadjuvant ICIs
+               - First step treatment given to shrink tumor before surgery( chemotherapy, radiotherapy, hormone therapy)
    - Integrated analysis
       - 115 patients
          - melanoma
          - Treatment
             - ICIs
             - USA
-                  -
 - Observation
+   - microbial signatures of response
+      - geographycally different
+   - immune-related adverse events (irAEs)
+      - inflammatory side effects induced by immune checkpoint inhibitors (ICI)
+   - response rates (RR)
+      - Ruminococcaceae dominated microbiomes
+         - Higher RR
+      - Bacteroidaceae-dominated microbiomes
+      - low fiber consumption
+         - & low omega 3 fatty acid consumption
+            - & High C-reactive protein in peripheral circulation at baseline
+               - Poor RR
+- Conclusion
+   - relevance in ICI response & toxicity
+      - native gut microbiota signature
+      - dietary intake
+      - systemic inflammation
+
+## Introduction
+- combination ICIs
+   - block PD-1
+   - block CTLA-4
+   - highly effective
+      - vs metastatic melanoma
+      - more-effective response
+         - vs treatment alone
+   - promise as
+      - neoadjuvant treatment
+         - stage III melanoma
+      - high pathological response
+      - low rate of recurrence
+   - limitation
+      - irAEs
+   - predict immunoresponse  to therapy?
+      - allow
+         - use the therapy in larger cohort
+         - avoid comorbidity due to toxicity
+- intestinal microbiota
+   - systemic role in immune modulation
+   - influences inflammatory disorders
+   - Questions
+      - Which are the most importat microbial drivers of immune respone and resistance to ICIs?
+      - Which are the common microbial ecosystem characteristics/features that connect different studies?
+      - Are there microbial irAE-protective patterns?
+- Performed/Methods
+   - which is the connection?
+      - gut microbiota
+      - irAEs development
+      - immunotherapy response
+   - cohort
+      - Australia
+      - Netherlands
+      - melanoma patients
+      - neoadjuvant combination ICIs
+      - US previous dataset
+         - intercontiinental differences
+
+## Results
+- Patient and treatment
+   - Characterize: pre-treatment fecal microbiomes
+   - prospective study
+      - prospective data collection
+   - 32 Dutch patients
+   - 71 Australian patients
+   - melanoma
+      - RECIST-measurable stage III subcutaneous melanoma
+      - local lymph node involvement only
+      - no in-transit disease
+      - no previous immunotherapy
+      - normal lactate dehydrogenase (LDH)
+      - Eastern Cooperative Oncology Gropu (ECOG) 0-1
+   - neoadjuvant treatment
+      - ipilimumab
+         - anti-CTLA-4
+      - nivolumab
+         - anti-PD-1
+   - Sample collection
+      - fecal samples
+         - before treatment
+      - affected lymph nodes resected
+         - 6th week of treatment
+   - Categorization
+      - Response
+         - R
+         - NR
+      - Maximum irAE
+         - G0-G2
+         - G3-G5
+      - Combined outcomes
+         - Adverse
+            - NR + irAE >= G3
+         - Beneficial
+            - All R + NR + irAE < 3
+- Gut microbiome associations with response and toxicty
+   - No significant association
+      - outcome response
+      - microbiome
+      - No significant difference
+         - Dutch population
+         - Australian population
+   - Method
+      - 16S-amplicon based community profiling
+         - Australian
+            - baseline fecal microbiomes
+      - TMB
+         - tumor extrinsic biomarker
+      - quantitative PCR qPCR
+         - 16s rna gene
+      - linear discriminant analysis effect size (LEfSe)
+         - taxa-specific qPCR
+   - Result
+      - No significant difference
+         - alpha-diversity
+            - R
+            - NR
+         - irAEs groups
+            - mild
+            - severe
+            - benign
+            - adverse
+      - Significantly lower
+         - microbiome diversity at baseline
+            - NR + severe irAEs
+               - specially
+                  - patients Gastrointestinal irAEs
+                     - gastritis
+                     - colitis
+            - NR + high TMB
+               - potential importance of tumor-extrinsic mechanism in response to immunotherapy
+         - total bacterial load
+            - NR
+      - significantly enriched taxa
+         - R
+            - [Faecalibacterium prausnitzii](https://es.wikipedia.org/wiki/Faecalibacterium)
+            - [Butyricicoccus pullicaecorum](https://en.wikipedia.org/wiki/Butyricicoccus_pullicaecorum)
+            - [Akkermansia muciniphilia](https://es.wikipedia.org/wiki/Akkermansia_muciniphila)
+            - Overlap with previous immunotherapy studies
+         - Conclusion: There is an overlap between microbes
+            involved in response and microbes linked
+            with protection from developing irAEs
+      - severe irAEs & NR patients
+         - [Faecalibacterium prausnitzii](https://es.wikipedia.org/wiki/Faecalibacterium) abundance reduced
+      - adverse outcome patients
+         - Clostridiales taxa order relative abundance reduced
+            - Cause: [Amplicon sequence variants (ASVs)](https://en.wikipedia.org/wiki/Amplicon_sequence_variant) relative abundance reduced
+               - Classified to taxa within Ruminococcaceae & Lachnospiraceae
+                  - Similar reduction in microbial features also present in inflammatory bowel disease
+      - identified by 16S
+         - 2 archaeal [ASVs](https://en.wikipedia.org/wiki/Amplicon_sequence_variant)
+            - Methanobacteriaceae
+               - Australian cohort
+                  - Differentially represented
+            - qPCR
+               - high-methogen-abundance
+               - low-methanogen-abundance & low diversty
+                  - adverse outcome patients
+                  - methanogens reduced
+                     - Methanogens facilitate diverse intestinal ecosystem
+                  - Conclusion
+                     - The host microbiome relationship
+                        under immunotherapy can be affected by
+                        presence/abscence of methanogens.
+                     - This has impact on the community level
+                        metabolic output.
+- Nutritional input and microbial metabolism
+   - Method
+      - Food questionnaires
+         - micronutrients
+         - macronutrients
+         - 60/71 Australian patients
+      - Altered microbial ecosystem function
+         - [Metagenomic shotgun](https://emea.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/shotgun-metagenomic-sequencing.html)
+            - 38 fecal DNA samples
+            - Australian patients
+            - [MetaCyc hierarchy of pathways](https://metacyc.org/META/class-tree?object=Pathways)
+               - [Linear discriminant analysis (LDA)](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
+               - [Linear discriminant analysis Effect Size (LEfSe)](http://huttenhower.sph.harvard.edu/lefse/)
+               - Butyrate associated pathways
+                  - Combined into
+                     - Single metabolic indicator
+         - [Nuclear magnetic resonance spectroscopy (NMR)](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy#Biomolecular_NMR_spectroscopy)
+            - Fecal butyrate levels
+            - serum butyrate levels
+               - impacted by
+                  - microbial production in gut
+                  - consumption of colonocytes
+                  - excess SCFA in systemic circulation
+   - Result
+      - Most patients ( R & NR)
+         - Suboptimal diets
+            - low fiber consumption
+            - high sugar
+            - saturated fat
+      - NR & adverse outcome group
+         - Lower Omega 3 consumption
+      - Microbial diversity
+         - Correlated to Omega 3
+      - Abundance of
+         - [Ruminococcaceae](https://en.wikipedia.org/wiki/Ruminococcus)
+            - Associated with fiber
+      - Different microbial functional pathway activation
+         - Beneficial outcome group
+         - Adverse outcome group
+            - Reduced Pathway
+               - [Short-chain Fatty Acids (SCFA)](https://en.wikipedia.org/wiki/Short-chain_fatty_acid) butyrate production
+               - B vitamin synthesis
+                  - Associated
+                     - protection from colitis
+               - Purine degradation
+                  - Associated
+                     - efficacy immunotherapy
+               - Aminoacid synthesis
+            - Overrepresented
+               - Heterogeneous among patients
+            - Butyrogenesis reduced
+               - alligns
+                  - observed reduced in butyrate-producing bacteria
+                     - [Ruminococcaceae](https://en.wikipedia.org/wiki/Ruminococcus)
+                     - [Lachnospiraceae](https://es.wikipedia.org/wiki/Lachnospiraceae)
+         - Benign outcome group
+            - Butyrate production pathways associated
+               - abundance of CENTFERM butyrate synthesis pathway genes
+                  - correlates with
+                     - fecal butyrates levels
+- Effects of geography on the microbiome
+- Diet-driven microbial ecology and immunotherapy response
+
+## Discussion
+
+## Figures
+- Fig 1
+- Fig 2
+- Fig 3
+- Fig 4
+- Extended material
+   - Extended Fig 1
+      - Project schematic
+   - Extended Fig 2
+   - Extended Fig 3
+   - Extended Fig 4
+   - Extended Fig 5
+   - Extended Fig 6
+   - Extended Fig 7
+   - Extended Fig 8
+   - Extended Fig 9
+   - Extended Fig 10
+- Supplementary material (online)
+
+## Year of publication
+
+## References
+- Omega 3, fiber promote intestinal integrity & SCFA production, alter inflammatory state of the gut
+   - 14
+      - Parada Venegas, D. et al. Short chain fatty acids (scfas) - mediated gut epithelial and immune regulation and its relevance for inflammatory bowel diseases . Front Immunol. 10, 227 (2019)
+   - 38
+      - Llewellyn, S. R. et al. Interactions between diet and the intestinal microbiota alter intestinal permeability and colitis severity in mice. Gastroenterology 154, e1032 (2018).
+   - 40
+      - Macia, L. et al. Metabolite-sensing receptors GPR43 and GPR109A facilitate dietary fibre-induced gut homeostasis through regulation of the inflammasome. Nat. Commun. 6, 6734 (2015).
+   - 41
+      - Chiba, M., Nakane, K. & Komatsu, M. Westernized diet is the most ubiquitous environmental factor in inflammatory bowel disease. Perm. J. 23, 18–107 (2019).
+   - 42
+      - Watson, H. et al. A randomised trial of the effect of omega-3 polyunsaturated fatty acid supplements on the human intestinal microbiota. Gut 67, 1974–1983 (2018).
+   - 43
+      - Lam, Y. Y. et al. Effects of dietary fat profile on gut permeability and microbiota and their relationships with metabolic changes in mice. Obes. (Silver Spring) 23, 1429–1439 (2015).
+- Butyrate energy source for colon epithelial cells, homeostatsis and cell integrity in colon
+   - 14
+      - Parada Venegas, D. et al. Short chain fatty acids (scfas) - mediated gut epithelial and immune regulation and its relevance for inflammatory bowel diseases . Front Immunol. 10, 227 (2019)
+   - 46
+      - Chen, J., Zhao, K.N. & Vitetta, L. Effects of intestinal microbial(-)elaborated butyrate on oncogenic signaling pathways. Nutrients 11(5), 1026 (2019).

@@ -14,7 +14,6 @@ mindmap-plugin: basic
 ## AnnData object
 - Read count matrix
 - anndata
-   - https://anndata-tutorials.readthedocs.io/en/latest/getting-started.html
    - matrix-like data
       - nxd
    - n observations
@@ -29,9 +28,21 @@ mindmap-plugin: basic
             - donor info
             - alternative gene symbol
       - Unstructured metadata
-         - color palettes
+
+## color palettes
+-
+-
       -
       - 1. Handle sparsity (matriz dispersa)
+      -
+-
+      -
       - 2. Handle unstructured data
+      -
+-
+      -
       - 3. Handles observation & feature-level metadata
-      - 4. User friendly
+      -
+-
+   - 4. User friendly
+- [anndata tutorial documentation](https://anndata-tutorials.readthedocs.io/en/latest/getting-started.html)
