@@ -11,11 +11,28 @@
             "id": "f04221d5caacb472",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "scRNAseq/Single-cell best practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d00bd1851f7b2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scRNAseq/Single-cell best practices.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "scRNAseq/Single-cell best practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "scRNAseq/Single-cell best practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "scRNAseq/Single-cell best practices.md"
+              }
             }
           }
         ]
@@ -138,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f04221d5caacb472",
+  "active": "1d00bd1851f7b2d9",
   "lastOpenFiles": [
-    "scRNAseq/schneeberger-liver-transfusion.md",
-    "scRNAseq/scRNAseq_theory_mind_map.md",
-    "scRNAseq/scanpy_mind_map.md",
+    "scRNAseq/Vocabulary.md",
+    "scRNAseq/Anndata.md",
+    "scRNAseq/Single-cell best practices.md",
     "literature/Interesting literature.md",
-    "Untitled mindmap.md",
-    "scRNAseq/anndata.svg"
+    "scRNAseq/scRNAseq_theory_thesis_lab.md",
+    "scRNAseq/schneeberger-liver-transfusion.md",
+    "scRNAseq/scanpy_mind_map.md",
+    "literature/Vocabulary.md",
+    "literature/Template.md",
+    "literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
   ]
 }
