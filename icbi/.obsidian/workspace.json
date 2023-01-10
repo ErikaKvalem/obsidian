@@ -4,47 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8690f20c145952af",
+        "id": "5442e7b7aca7cfa6",
         "type": "tabs",
         "children": [
           {
-            "id": "f04221d5caacb472",
+            "id": "2d34d5b408a9bfdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "scRNAseq/Single-cell best practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d00bd1851f7b2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scRNAseq/Single-cell best practices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d13dfbf7bb68041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/False Discovery Rates.md",
-                "mode": "source",
-                "source": false
+                "file": "R Analysis/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/False Discovery Rates.md",
+                "file": "R Analysis/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/False Discovery Rates.md",
+                "file": "R Analysis/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/False Discovery Rates.md"
+                "file": "R Analysis/Untitled.canvas"
               }
             }
           }
@@ -171,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d13dfbf7bb68041",
+  "active": "2d34d5b408a9bfdc",
   "lastOpenFiles": [
+    "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",
+    "Statistics/False Discovery Rates.md",
     "scRNAseq/Vocabulary.md",
     "scRNAseq/Anndata.md",
     "literature/Interesting literature.md",
     "scRNAseq/scRNAseq_theory_thesis_lab.md",
     "scRNAseq/schneeberger-liver-transfusion.md",
     "scRNAseq/scanpy_mind_map.md",
-    "literature/Vocabulary.md",
-    "literature/Template.md",
-    "literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
+    "literature/Vocabulary.md"
   ]
 }
