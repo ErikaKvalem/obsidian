@@ -15,8 +15,8 @@
               "state": {
                 "file": "R Analysis/Representing genomic structural variation.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 397,
+                  "y": -263,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bc28d5546fde4a0",
+  "active": "2d34d5b408a9bfdc",
   "lastOpenFiles": [
     "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",

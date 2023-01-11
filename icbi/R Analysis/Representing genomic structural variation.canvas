@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"d65e461f084578df","x":-120,"y":-295,"width":250,"height":60,"type":"text","text":"R Analysis (Excercise)"},
-		{"id":"27775dbb11d3a263","x":-120,"y":-179,"width":250,"height":70,"type":"text","text":"Representing genomic structural variation"},
-		{"id":"5b1d8a1cccb4e899","x":-120,"y":-40,"width":250,"height":102,"type":"text","text":"Techniques for displaying relations between distant genomic positions"}
+		{"id":"5b1d8a1cccb4e899","x":-120,"y":-40,"width":250,"height":102,"color":"5","type":"text","text":"Techniques for displaying RELATIONS BETWEEN DISTANT GENOMIC POSITIONS"},
+		{"id":"27775dbb11d3a263","x":-120,"y":-179,"width":250,"height":70,"color":"5","type":"text","text":"Representing GENOMIC STRUCTURAL VARIATION"},
+		{"id":"d65e461f084578df","x":-120,"y":-293,"width":250,"height":60,"color":"5","type":"text","text":"R Analysis (Excercise)"},
+		{"id":"7844ac257533e58d","x":376,"y":-293,"width":250,"height":60,"type":"text","text":"Single reference genome"},
+		{"id":"b05fd9ed37bc1b02","x":353,"y":-109,"width":296,"height":51,"type":"text","text":"Growing collection of genomes"}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
-		{"id":"9458cb9a4a88b8db","fromNode":"27775dbb11d3a263","fromSide":"top","toNode":"d65e461f084578df","toSide":"bottom"}
+		{"id":"9458cb9a4a88b8db","fromNode":"27775dbb11d3a263","fromSide":"top","toNode":"d65e461f084578df","toSide":"bottom"},
+		{"id":"7aee2f5b27b6ff51","fromNode":"d65e461f084578df","fromSide":"right","toNode":"7844ac257533e58d","toSide":"left"},
+		{"id":"249b94e1d7173bf7","fromNode":"7844ac257533e58d","fromSide":"bottom","toNode":"b05fd9ed37bc1b02","toSide":"top"}
 	]
 }
