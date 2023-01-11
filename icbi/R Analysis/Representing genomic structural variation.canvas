@@ -16,17 +16,20 @@
 		{"id":"5c9c5c1d972802bc","x":1885,"y":192,"width":272,"height":50,"type":"text","text":"Traditional visualization tools"},
 		{"id":"7a4de961e93f3869","x":1009,"y":-579,"width":227,"height":316,"type":"file","file":"R Analysis/structuralvariant.png"},
 		{"id":"e05999a6f508f2a5","x":1297,"y":-381,"width":145,"height":97,"type":"text","text":"Structural variant"},
-		{"id":"13ffd4d3f671b006","x":1635,"y":-444,"width":250,"height":60,"type":"text","text":"DNA Sequence >1kb"},
-		{"id":"ae972b9cd9ec48a0","x":1673,"y":-362,"width":250,"height":60,"type":"text","text":"Differs from \nREFERENCE SEQUENCE"},
-		{"id":"ca032fefbc6283d6","x":1991,"y":-479,"width":250,"height":60,"type":"text","text":"CONTENT"},
-		{"id":"12a044b8861f30de","x":2018,"y":-421,"width":250,"height":60,"type":"text","text":"ORDER"},
-		{"id":"5bed6e9742e62473","x":2052,"y":-340,"width":250,"height":60,"type":"text","text":"ORIENTATION"},
 		{"id":"45e9198782759b88","x":1245,"y":-730,"width":250,"height":60,"type":"text","text":"How to represent it? "},
 		{"id":"9944802f9eaa49ca","x":1570,"y":-866,"width":250,"height":60,"type":"text","text":"Show both \n- REFERENCE SEQ\n- VARIANT SEQ"},
-		{"id":"ccb00486ee7ec2bc","x":1629,"y":-272,"width":131,"height":50,"type":"text","text":"Breakpoints"},
-		{"id":"db9b1328afc02a66","x":1833,"y":-277,"width":250,"height":60,"type":"text","text":"Sequence boundaries of a strustural variant"},
-		{"id":"45f1da70038db1a8","x":1833,"y":-217,"width":250,"height":60,"type":"text","text":"Span a wide range of distances "},
-		{"id":"e83da3ba85fa16f1","x":1833,"y":-157,"width":250,"height":60,"type":"text","text":"Affect sequence segments of varying size"}
+		{"id":"ccb00486ee7ec2bc","x":1629,"y":-272,"width":131,"height":50,"color":"1","type":"text","text":"Breakpoints"},
+		{"id":"13ffd4d3f671b006","x":1548,"y":-579,"width":250,"height":60,"type":"text","text":"DNA Sequence >1kb"},
+		{"id":"ae972b9cd9ec48a0","x":1570,"y":-481,"width":250,"height":60,"type":"text","text":"Differs from \nREFERENCE SEQUENCE"},
+		{"id":"ca032fefbc6283d6","x":1896,"y":-549,"width":250,"height":60,"type":"text","text":"CONTENT"},
+		{"id":"12a044b8861f30de","x":1896,"y":-481,"width":250,"height":50,"type":"text","text":"ORDER"},
+		{"id":"5bed6e9742e62473","x":1896,"y":-421,"width":250,"height":60,"type":"text","text":"ORIENTATION"},
+		{"id":"db9b1328afc02a66","x":1833,"y":-332,"width":250,"height":60,"type":"text","text":"Sequence boundaries of a strustural variant"},
+		{"id":"45f1da70038db1a8","x":1833,"y":-263,"width":250,"height":60,"type":"text","text":"Span a wide range of distances "},
+		{"id":"e83da3ba85fa16f1","x":1833,"y":-197,"width":250,"height":67,"type":"text","text":"Affect sequence segments of varying size"},
+		{"id":"2e4de9934b419548","x":2349,"y":-284,"width":492,"height":385,"type":"file","file":"R Analysis/structuralvariants_breakpoints.png"},
+		{"id":"328241db9912d53f","x":2975,"y":-344,"width":198,"height":111,"type":"text","text":"Tandem duplications\nLocalized repetition of only few kb"},
+		{"id":"89ec1fa2c9169b51","x":2975,"y":-130,"width":250,"height":60,"type":"text","text":"Translocations\nLocated in nonhomologous chromosome arms \nResult: Rearragement of large genomic chunks"}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
@@ -53,6 +56,9 @@
 		{"id":"1b14081b92ee1e4a","fromNode":"e05999a6f508f2a5","fromSide":"right","toNode":"ccb00486ee7ec2bc","toSide":"left"},
 		{"id":"f86e726edbabf479","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"db9b1328afc02a66","toSide":"left"},
 		{"id":"f6b3cc97d8925ab3","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"45f1da70038db1a8","toSide":"left"},
-		{"id":"343480d5ca2bef04","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"e83da3ba85fa16f1","toSide":"left"}
+		{"id":"343480d5ca2bef04","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"e83da3ba85fa16f1","toSide":"left"},
+		{"id":"cad7003b94e70631","fromNode":"ccb00486ee7ec2bc","fromSide":"bottom","toNode":"2e4de9934b419548","toSide":"left","color":"1"},
+		{"id":"762771de617ab27c","fromNode":"2e4de9934b419548","fromSide":"right","toNode":"328241db9912d53f","toSide":"left"},
+		{"id":"e7880e52bdb7b03a","fromNode":"2e4de9934b419548","fromSide":"right","toNode":"89ec1fa2c9169b51","toSide":"left"}
 	]
 }
