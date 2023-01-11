@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "R Analysis/Untitled.canvas",
+                "file": "R Analysis/Representing genomic structural variation.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R Analysis/Untitled.canvas",
+                "file": "R Analysis/Representing genomic structural variation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R Analysis/Untitled.canvas",
+                "file": "R Analysis/Representing genomic structural variation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R Analysis/Untitled.canvas"
+                "file": "R Analysis/Representing genomic structural variation.canvas"
               }
             }
           }
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d34d5b408a9bfdc",
+  "active": "5bc28d5546fde4a0",
   "lastOpenFiles": [
     "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",
