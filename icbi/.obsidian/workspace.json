@@ -11,15 +11,11 @@
             "id": "2d34d5b408a9bfdc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
-                "viewState": {
-                  "x": 2149.146831292857,
-                  "y": -510.58232504117586,
-                  "zoom": -1.1199999999999999,
-                  "snapToGrid": true
-                }
+                "file": "BioStatistics/Vocabulary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
+                "file": "BioStatistics/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
+                "file": "BioStatistics/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas"
+                "file": "BioStatistics/Vocabulary.md"
               }
             }
           }
@@ -150,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d34d5b408a9bfdc",
+  "active": "5bc28d5546fde4a0",
   "lastOpenFiles": [
+    "R Analysis/Representing genomic structural variation.canvas",
     "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",
-    "Statistics/False Discovery Rates.md",
+    "BioStatistics/Vocabulary.md",
     "scRNAseq/Vocabulary.md",
     "scRNAseq/Anndata.md",
     "literature/Interesting literature.md",
     "scRNAseq/scRNAseq_theory_thesis_lab.md",
     "scRNAseq/schneeberger-liver-transfusion.md",
-    "scRNAseq/scanpy_mind_map.md",
-    "literature/Vocabulary.md"
+    "scRNAseq/scanpy_mind_map.md"
   ]
 }
