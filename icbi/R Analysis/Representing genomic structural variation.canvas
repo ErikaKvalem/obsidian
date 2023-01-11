@@ -32,7 +32,10 @@
 		{"id":"71adb26c947532ec","x":1570,"y":-730,"width":250,"height":60,"type":"text","text":"Track breakpoints \nacross scale "},
 		{"id":"f64491800748f9e9","x":2989,"y":144,"width":250,"height":98,"type":"text","text":"INVERSIONS\nVariant genomic fragment flipped end to end "},
 		{"id":"9944802f9eaa49ca","x":1570,"y":-922,"width":250,"height":141,"type":"text","text":"Show both \n- REFERENCE SEQ\n- VARIANT SEQ\n- ORIENTATION"},
-		{"id":"28b3d6bcd8323b88","x":2110,"y":-939,"width":277,"height":129,"type":"text","text":"Solution 1: \n- Arcs between breakpoints\n- Linear layout reference genome"}
+		{"id":"ff15685cf4bc14a2","x":2144,"y":-1378,"width":193,"height":400,"type":"file","file":"R Analysis/translocation_arcs.png"},
+		{"id":"637b643dcc278c00","x":3012,"y":-1021,"width":250,"height":197,"type":"text","text":"GOOD \n- Effective\n- For small number of structural variants \n- For smiliar genomic ranges"},
+		{"id":"05f580c1dfcd4f3b","x":3012,"y":-789,"width":250,"height":150,"type":"text","text":"NOT PRACTICAL\n- Linear genomic browsers\n- Difficult to display long-range arcs"},
+		{"id":"28b3d6bcd8323b88","x":2618,"y":-922,"width":277,"height":129,"type":"text","text":"Solution 1: \n- Arcs between breakpoints\n- Linear layout reference genome"}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
@@ -66,6 +69,8 @@
 		{"id":"d648c2be0ff858b1","fromNode":"45e9198782759b88","fromSide":"right","toNode":"71adb26c947532ec","toSide":"left"},
 		{"id":"dd0e9a26f4103c8f","fromNode":"71adb26c947532ec","fromSide":"right","toNode":"2e4de9934b419548","toSide":"top","color":"1"},
 		{"id":"1a4eae3e94888b14","fromNode":"2e4de9934b419548","fromSide":"right","toNode":"f64491800748f9e9","toSide":"left"},
-		{"id":"277e6a793913915f","fromNode":"45e9198782759b88","fromSide":"right","toNode":"28b3d6bcd8323b88","toSide":"left"}
+		{"id":"277e6a793913915f","fromNode":"45e9198782759b88","fromSide":"right","toNode":"28b3d6bcd8323b88","toSide":"right","label":"SOLUTIONS"},
+		{"id":"70e16ab643f7f7ab","fromNode":"28b3d6bcd8323b88","fromSide":"right","toNode":"637b643dcc278c00","toSide":"left"},
+		{"id":"d542d2c5e37fd0c8","fromNode":"28b3d6bcd8323b88","fromSide":"right","toNode":"05f580c1dfcd4f3b","toSide":"left"}
 	]
 }
