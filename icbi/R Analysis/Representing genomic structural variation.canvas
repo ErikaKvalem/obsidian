@@ -21,7 +21,12 @@
 		{"id":"ca032fefbc6283d6","x":1991,"y":-479,"width":250,"height":60,"type":"text","text":"CONTENT"},
 		{"id":"12a044b8861f30de","x":2018,"y":-421,"width":250,"height":60,"type":"text","text":"ORDER"},
 		{"id":"5bed6e9742e62473","x":2052,"y":-340,"width":250,"height":60,"type":"text","text":"ORIENTATION"},
-		{"id":"45e9198782759b88","x":1282,"y":-717,"width":250,"height":60,"type":"text","text":""}
+		{"id":"45e9198782759b88","x":1245,"y":-730,"width":250,"height":60,"type":"text","text":"How to represent it? "},
+		{"id":"9944802f9eaa49ca","x":1570,"y":-866,"width":250,"height":60,"type":"text","text":"Show both \n- REFERENCE SEQ\n- VARIANT SEQ"},
+		{"id":"ccb00486ee7ec2bc","x":1629,"y":-272,"width":131,"height":50,"type":"text","text":"Breakpoints"},
+		{"id":"db9b1328afc02a66","x":1833,"y":-277,"width":250,"height":60,"type":"text","text":"Sequence boundaries of a strustural variant"},
+		{"id":"45f1da70038db1a8","x":1833,"y":-217,"width":250,"height":60,"type":"text","text":"Span a wide range of distances "},
+		{"id":"e83da3ba85fa16f1","x":1833,"y":-157,"width":250,"height":60,"type":"text","text":"Affect sequence segments of varying size"}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
@@ -43,6 +48,11 @@
 		{"id":"022ca361fef6b1eb","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"ca032fefbc6283d6","toSide":"left"},
 		{"id":"091110320d684a18","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"12a044b8861f30de","toSide":"left"},
 		{"id":"b4b1bf5ad72357be","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"5bed6e9742e62473","toSide":"left"},
-		{"id":"53b28a87cb7bd08a","fromNode":"e05999a6f508f2a5","fromSide":"top","toNode":"45e9198782759b88","toSide":"bottom"}
+		{"id":"53b28a87cb7bd08a","fromNode":"e05999a6f508f2a5","fromSide":"top","toNode":"45e9198782759b88","toSide":"bottom"},
+		{"id":"e538ce9b396d0ec5","fromNode":"45e9198782759b88","fromSide":"right","toNode":"9944802f9eaa49ca","toSide":"left"},
+		{"id":"1b14081b92ee1e4a","fromNode":"e05999a6f508f2a5","fromSide":"right","toNode":"ccb00486ee7ec2bc","toSide":"left"},
+		{"id":"f86e726edbabf479","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"db9b1328afc02a66","toSide":"left"},
+		{"id":"f6b3cc97d8925ab3","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"45f1da70038db1a8","toSide":"left"},
+		{"id":"343480d5ca2bef04","fromNode":"ccb00486ee7ec2bc","fromSide":"right","toNode":"e83da3ba85fa16f1","toSide":"left"}
 	]
 }
