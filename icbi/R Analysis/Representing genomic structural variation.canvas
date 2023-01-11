@@ -9,7 +9,12 @@
 		{"id":"01a1f058e552be43","x":986,"y":-224,"width":250,"height":60,"type":"text","text":"Structural variations"},
 		{"id":"71fa56a646b9a7ec","x":986,"y":-58,"width":250,"height":60,"type":"text","text":"Copy-number  variations"},
 		{"id":"82e737eadfdde0ac","x":672,"y":-164,"width":250,"height":110,"color":"1","type":"text","text":"Genomic sequence \n2 human individuals\nDiffer only 0.1% "},
-		{"id":"ed7878b8922e41ab","x":1333,"y":-221,"width":337,"height":60,"type":"text","text":"Effective Visualization of variations \n"}
+		{"id":"41a4ba7bc59912ad","x":1282,"y":-224,"width":250,"height":60,"type":"text","text":"Variation data"},
+		{"id":"849a722b7be8909e","x":1636,"y":-445,"width":250,"height":127,"type":"text","text":"Effective Visualization of variations --> \n- Gain understanding of disease genetics\n"},
+		{"id":"5c9c5c1d972802bc","x":1674,"y":-188,"width":272,"height":50,"type":"text","text":"Traditional visualization tools"},
+		{"id":"6d38ac82fd0843e0","x":2001,"y":-254,"width":250,"height":60,"type":"text","text":"Linear Layout"},
+		{"id":"6700676b7e31cd4f","x":2001,"y":-138,"width":274,"height":90,"type":"text","text":"Difficulty representing\nLARGE STRUCTURAL REARRAGEMENTS\n"},
+		{"id":"e05999a6f508f2a5","x":1300,"y":-415,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
@@ -20,6 +25,11 @@
 		{"id":"9f2e81471c9b647f","fromNode":"7844ac257533e58d","fromSide":"bottom","toNode":"82e737eadfdde0ac","toSide":"top"},
 		{"id":"6f59b05e7cc0812a","fromNode":"82e737eadfdde0ac","fromSide":"right","toNode":"01a1f058e552be43","toSide":"left"},
 		{"id":"59045063849db2ea","fromNode":"82e737eadfdde0ac","fromSide":"right","toNode":"71fa56a646b9a7ec","toSide":"left"},
-		{"id":"e4183415af2e35f2","fromNode":"01a1f058e552be43","fromSide":"right","toNode":"ed7878b8922e41ab","toSide":"left"}
+		{"id":"fb97d3b76071d95c","fromNode":"01a1f058e552be43","fromSide":"right","toNode":"41a4ba7bc59912ad","toSide":"left"},
+		{"id":"82cc3849368f1b7f","fromNode":"41a4ba7bc59912ad","fromSide":"right","toNode":"849a722b7be8909e","toSide":"left"},
+		{"id":"ed99d05fbbc8866c","fromNode":"41a4ba7bc59912ad","fromSide":"right","toNode":"5c9c5c1d972802bc","toSide":"left"},
+		{"id":"17c574ae671e0122","fromNode":"5c9c5c1d972802bc","fromSide":"right","toNode":"6d38ac82fd0843e0","toSide":"left"},
+		{"id":"81cce79d32791186","fromNode":"5c9c5c1d972802bc","fromSide":"right","toNode":"6700676b7e31cd4f","toSide":"left"},
+		{"id":"ef7bb94ca0970087","fromNode":"01a1f058e552be43","fromSide":"right","toNode":"e05999a6f508f2a5","toSide":"left"}
 	]
 }
