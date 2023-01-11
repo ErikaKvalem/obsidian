@@ -9,12 +9,19 @@
 		{"id":"01a1f058e552be43","x":986,"y":-224,"width":250,"height":60,"type":"text","text":"Structural variations"},
 		{"id":"71fa56a646b9a7ec","x":986,"y":-58,"width":250,"height":60,"type":"text","text":"Copy-number  variations"},
 		{"id":"82e737eadfdde0ac","x":672,"y":-164,"width":250,"height":110,"color":"1","type":"text","text":"Genomic sequence \n2 human individuals\nDiffer only 0.1% "},
-		{"id":"41a4ba7bc59912ad","x":1282,"y":-224,"width":250,"height":60,"type":"text","text":"Variation data"},
-		{"id":"849a722b7be8909e","x":1636,"y":-445,"width":250,"height":127,"type":"text","text":"Effective Visualization of variations --> \n- Gain understanding of disease genetics\n"},
-		{"id":"5c9c5c1d972802bc","x":1674,"y":-188,"width":272,"height":50,"type":"text","text":"Traditional visualization tools"},
-		{"id":"6d38ac82fd0843e0","x":2001,"y":-254,"width":250,"height":60,"type":"text","text":"Linear Layout"},
-		{"id":"6700676b7e31cd4f","x":2001,"y":-138,"width":274,"height":90,"type":"text","text":"Difficulty representing\nLARGE STRUCTURAL REARRAGEMENTS\n"},
-		{"id":"e05999a6f508f2a5","x":1300,"y":-415,"width":250,"height":60,"type":"text","text":""}
+		{"id":"41a4ba7bc59912ad","x":1320,"y":-28,"width":250,"height":60,"type":"text","text":"Variation data"},
+		{"id":"6d38ac82fd0843e0","x":2212,"y":126,"width":250,"height":60,"type":"text","text":"Linear Layout"},
+		{"id":"6700676b7e31cd4f","x":2212,"y":242,"width":274,"height":90,"type":"text","text":"Difficulty representing\nLARGE STRUCTURAL REARRAGEMENTS\n"},
+		{"id":"849a722b7be8909e","x":1847,"y":-65,"width":250,"height":127,"type":"text","text":"Effective Visualization of variations --> \n- Gain understanding of disease genetics\n"},
+		{"id":"5c9c5c1d972802bc","x":1885,"y":192,"width":272,"height":50,"type":"text","text":"Traditional visualization tools"},
+		{"id":"7a4de961e93f3869","x":1009,"y":-579,"width":227,"height":316,"type":"file","file":"R Analysis/structuralvariant.png"},
+		{"id":"e05999a6f508f2a5","x":1297,"y":-381,"width":145,"height":97,"type":"text","text":"Structural variant"},
+		{"id":"13ffd4d3f671b006","x":1635,"y":-444,"width":250,"height":60,"type":"text","text":"DNA Sequence >1kb"},
+		{"id":"ae972b9cd9ec48a0","x":1673,"y":-362,"width":250,"height":60,"type":"text","text":"Differs from \nREFERENCE SEQUENCE"},
+		{"id":"ca032fefbc6283d6","x":1991,"y":-479,"width":250,"height":60,"type":"text","text":"CONTENT"},
+		{"id":"12a044b8861f30de","x":2018,"y":-421,"width":250,"height":60,"type":"text","text":"ORDER"},
+		{"id":"5bed6e9742e62473","x":2052,"y":-340,"width":250,"height":60,"type":"text","text":"ORIENTATION"},
+		{"id":"45e9198782759b88","x":1282,"y":-717,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"cb60a58426b84f0b","fromNode":"27775dbb11d3a263","fromSide":"bottom","toNode":"5b1d8a1cccb4e899","toSide":"top"},
@@ -30,6 +37,12 @@
 		{"id":"ed99d05fbbc8866c","fromNode":"41a4ba7bc59912ad","fromSide":"right","toNode":"5c9c5c1d972802bc","toSide":"left"},
 		{"id":"17c574ae671e0122","fromNode":"5c9c5c1d972802bc","fromSide":"right","toNode":"6d38ac82fd0843e0","toSide":"left"},
 		{"id":"81cce79d32791186","fromNode":"5c9c5c1d972802bc","fromSide":"right","toNode":"6700676b7e31cd4f","toSide":"left"},
-		{"id":"ef7bb94ca0970087","fromNode":"01a1f058e552be43","fromSide":"right","toNode":"e05999a6f508f2a5","toSide":"left"}
+		{"id":"ef7bb94ca0970087","fromNode":"01a1f058e552be43","fromSide":"right","toNode":"e05999a6f508f2a5","toSide":"left"},
+		{"id":"470908e7a387da62","fromNode":"e05999a6f508f2a5","fromSide":"right","toNode":"13ffd4d3f671b006","toSide":"left"},
+		{"id":"b60f0bd6ada20f28","fromNode":"e05999a6f508f2a5","fromSide":"right","toNode":"ae972b9cd9ec48a0","toSide":"left"},
+		{"id":"022ca361fef6b1eb","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"ca032fefbc6283d6","toSide":"left"},
+		{"id":"091110320d684a18","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"12a044b8861f30de","toSide":"left"},
+		{"id":"b4b1bf5ad72357be","fromNode":"ae972b9cd9ec48a0","fromSide":"right","toNode":"5bed6e9742e62473","toSide":"left"},
+		{"id":"53b28a87cb7bd08a","fromNode":"e05999a6f508f2a5","fromSide":"top","toNode":"45e9198782759b88","toSide":"bottom"}
 	]
 }
