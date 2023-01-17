@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"1cfca4cd85b18ca8","x":1398,"y":-611,"width":250,"height":60,"type":"text","text":" "},
 		{"id":"5b1d8a1cccb4e899","x":-120,"y":-40,"width":250,"height":102,"color":"5","type":"text","text":"Techniques for displaying RELATIONS BETWEEN DISTANT GENOMIC POSITIONS"},
 		{"id":"27775dbb11d3a263","x":-120,"y":-179,"width":250,"height":70,"color":"5","type":"text","text":"Representing GENOMIC STRUCTURAL VARIATION"},
 		{"id":"d65e461f084578df","x":-120,"y":-293,"width":250,"height":60,"color":"5","type":"text","text":"R Analysis (Excercise)"},
