@@ -11,11 +11,15 @@
             "id": "2d34d5b408a9bfdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
-                "mode": "source",
-                "source": false
+                "file": "R Analysis/Representing genomic structural variation.canvas",
+                "viewState": {
+                  "x": 2576.84725367053,
+                  "y": -145.7188359291208,
+                  "zoom": 0.23166733590682617,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -69,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5
   },
   "right": {
     "id": "fb06a8c5fbe5db15",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
+                "file": "R Analysis/Representing genomic structural variation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
+                "file": "R Analysis/Representing genomic structural variation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BioStatistics/Vocabulary.md"
+                "file": "R Analysis/Representing genomic structural variation.canvas"
               }
             }
           }
@@ -146,12 +150,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bc28d5546fde4a0",
+  "active": "2d34d5b408a9bfdc",
   "lastOpenFiles": [
+    "BioStatistics/Vocabulary.md",
     "R Analysis/Representing genomic structural variation.canvas",
     "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",
-    "BioStatistics/Vocabulary.md",
     "scRNAseq/Vocabulary.md",
     "scRNAseq/Anndata.md",
     "literature/Interesting literature.md",
