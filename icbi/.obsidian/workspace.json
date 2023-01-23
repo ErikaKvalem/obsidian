@@ -4,117 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5442e7b7aca7cfa6",
+        "id": "89e5fffd2bb9946e",
         "type": "tabs",
         "children": [
           {
-            "id": "2d34d5b408a9bfdc",
+            "id": "323fe89ddbe7ecb2",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "scRNAseq/scRNAseq_theory_thesis_lab.md"
-              }
-            }
-          },
-          {
-            "id": "c68eef3fd0149d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/basic_concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2edde8ad821724e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/nextflow_scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ee76d0e6fcd9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/basic_concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c298a5d0fa6b0ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/channels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbe6092b13176c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/DSL2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "524cab5ca5d9919e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f19df9555bbc062c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/operators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778e2a31e08c17ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/executors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nextflow/executors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nextflow/executors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nextflow/executors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -241,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bc28d5546fde4a0",
+  "active": "323fe89ddbe7ecb2",
   "lastOpenFiles": [
+    "nextflow/configuration.md",
+    "nextflow/executors.md",
     "nextflow/operators.md",
     "nextflow/containers.md",
     "nextflow/DSL2.md",
@@ -250,8 +149,6 @@
     "nextflow/basic_concepts.md",
     "nextflow/processes.md",
     "nextflow/nextflow_scripting.md",
-    "scRNAseq/scRNAseq_theory_thesis_lab.md",
-    "R Analysis/Representing genomic structural variation.canvas",
-    "BioStatistics/Vocabulary.md"
+    "scRNAseq/scRNAseq_theory_thesis_lab.md"
   ]
 }
