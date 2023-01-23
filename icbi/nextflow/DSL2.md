@@ -27,5 +27,7 @@ Function hello_world, returns the string "hello world" and function bar reutrns 
 ```return```
 Keyword to explicit exit a function and return specific value 
 
-### Process [[processes]]
-
+### [[processes]]
+Separated: 
+- Definition of a process (see  [[processes]])
+- Invocation of a process 
