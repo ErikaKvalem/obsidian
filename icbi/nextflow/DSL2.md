@@ -76,4 +76,10 @@ Module inclusions
 Module aliases
 Module parameters
 Module templates 
-Module 
+Module binaries 
+Channel forking 
+
+#### Pipes 
+The pipe operator
+The and operator 
+
