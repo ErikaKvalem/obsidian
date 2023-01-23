@@ -13,4 +13,34 @@ echo "Hello World" > file
 ```
 
 Process definition blocks: 
-- R
+- Directives
+- Inputs
+- Outputs
+- When clause
+- Process script 
+```
+process < name > {
+
+  [ directives ]
+
+  input:
+    < process inputs >
+
+  output:
+    < process outputs >
+
+  when:
+    < condition >
+
+  [script|shell|exec]:
+    < user script to be executed >
+
+}
+```
+
+### Script
+
+### Input 
+### Output 
+### When 
+### Directives 
