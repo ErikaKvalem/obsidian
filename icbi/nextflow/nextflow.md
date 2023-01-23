@@ -60,4 +60,24 @@ Creates 2 processes & 1 channel ```query_ch```
 ### Execution abstraction 
 
 Executor: How the script given by the process is actually run on the target system. 
+Where? Define the target execution platform (your computer, a grid platform, or the cloud)
+
+- Batch schedulers. (e.g SLURM)
+- Cloud platforms (e.g AWS, Google Clout Platform, Kubernetes)
+
+### Script language
+Powerful scripting DSL 
+Extension of Groovy programming language --> Super set of Java p.l 
+
+### Configuration options
+Pipeline configuration properties. 
+For specify executor, process env. variables, parameters of pipeline etc 
+
+```nextflow.config```
+
+```
+
+
+
+
 
