@@ -76,8 +76,10 @@ For specify executor, process env. variables, parameters of pipeline etc
 ```nextflow.config```
 
 ```
-
-
-
+process {
+  executor='sge'
+  queue = 'cn-el6'
+}
+```
 
 
