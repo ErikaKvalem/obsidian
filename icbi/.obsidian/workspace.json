@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8402b6cc1054aaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nextflow/processes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63a03b6b6868f9ea",
+  "active": "8402b6cc1054aaaa",
   "lastOpenFiles": [
+    "nextflow/doubts.md",
+    "nextflow/processes.md",
     "nextflow/basic_concepts.md",
     "nextflow/DSL2.md",
-    "nextflow/processes.md",
     "nextflow/configuration.md",
     "nextflow/executors.md",
     "nextflow/operators.md",
     "nextflow/containers.md",
     "nextflow/channels.md",
-    "nextflow/nextflow_scripting.md",
-    "scRNAseq/scRNAseq_theory_thesis_lab.md"
+    "nextflow/nextflow_scripting.md"
   ]
 }

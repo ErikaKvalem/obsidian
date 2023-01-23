@@ -37,7 +37,22 @@ process < name > {
 
 }
 ```
+#### Process composition
+Process with matching input-output can exist. 
+Process 1 --> output --> Input -->  Next Process
 
+#### Process output 
+Acces process output with ```.out```
+```
+workflow {
+    foo()
+    bar(foo.out)
+    bar.out.view()
+}
+```
+
+When a process defines 2/more output channels. Each can be accesed like:
+out[0]
 ### Script
 
 ### Input 
