@@ -11,19 +11,26 @@
             "id": "2d34d5b408a9bfdc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "mindmapView",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
-                "viewState": {
-                  "x": 2932.1440740712787,
-                  "y": -1001.0654498082912,
-                  "zoom": 0.23166733590682617,
-                  "snapToGrid": false
-                }
+                "file": "scRNAseq/scRNAseq_theory_thesis_lab.md"
+              }
+            }
+          },
+          {
+            "id": "c68eef3fd0149d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nextflow/nextflow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
+                "file": "nextflow/nextflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas",
+                "file": "nextflow/nextflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R Analysis/Representing genomic structural variation.canvas"
+                "file": "nextflow/nextflow.md"
               }
             }
           }
@@ -150,16 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d34d5b408a9bfdc",
+  "active": "c68eef3fd0149d32",
   "lastOpenFiles": [
-    "BioStatistics/Vocabulary.md",
+    "scRNAseq/scRNAseq_theory_thesis_lab.md",
     "R Analysis/Representing genomic structural variation.canvas",
+    "BioStatistics/Vocabulary.md",
     "R Analysis/Representing genomic structural variation.md",
     "scRNAseq/Single-cell best practices.md",
     "scRNAseq/Vocabulary.md",
     "scRNAseq/Anndata.md",
     "literature/Interesting literature.md",
-    "scRNAseq/scRNAseq_theory_thesis_lab.md",
     "scRNAseq/schneeberger-liver-transfusion.md",
     "scRNAseq/scanpy_mind_map.md"
   ]
