@@ -31,3 +31,14 @@ Keyword to explicit exit a function and return specific value
 Separated: 
 - Definition of a process (see  [[processes]])
 - Invocation of a process 
+
+Process definition
+Process composition
+Process output 
+Process named output
+Process named stdout
+
+#### workflows
+
+Workflow allows to define sub-workflow components that call [[processes]] & [[operators]]
+```

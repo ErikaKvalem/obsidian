@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nextflow/processes.md",
+                "file": "nextflow/DSL2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d93503c1901ec23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nextflow/DSL2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nextflow/processes.md",
+                "file": "nextflow/DSL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nextflow/processes.md",
+                "file": "nextflow/DSL2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nextflow/processes.md"
+                "file": "nextflow/DSL2.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8402b6cc1054aaaa",
+  "active": "2d93503c1901ec23",
   "lastOpenFiles": [
-    "nextflow/doubts.md",
-    "nextflow/processes.md",
-    "nextflow/basic_concepts.md",
+    "nextflow/Untitled.md",
+    "R Analysis/structuralvariants_breakpoints.png",
     "nextflow/DSL2.md",
+    "nextflow/processes.md",
+    "nextflow/doubts.md",
+    "nextflow/basic_concepts.md",
     "nextflow/configuration.md",
     "nextflow/executors.md",
     "nextflow/operators.md",
-    "nextflow/containers.md",
-    "nextflow/channels.md",
-    "nextflow/nextflow_scripting.md"
+    "nextflow/containers.md"
   ]
 }

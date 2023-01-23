@@ -82,15 +82,18 @@ process sayHello {
   input:
     val cheers
   output:
-   stdout emit:verbiag
-  '''
-  your_command --here
-  '''
+   stdout emit:verbiage
+   
+  script:
+  """ 
+  echo -n $cheers
+  """
 }
 
 workflow {
-    foo()
-    foo.out.samples_bam.view()
+    things = channel.of("Hello world", "Yo, dude", "Duck!")
+    sayHello(things)
+    sayHello.out.verbiage.view()
 }
 ```
 ### Script
