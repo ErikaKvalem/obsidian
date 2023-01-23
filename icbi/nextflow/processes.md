@@ -53,6 +53,46 @@ workflow {
 
 When a process defines 2/more output channels. Each can be accesed like:
 out[0]
+out[1] 
+
+#### Processes named output 
+To assing a name to the output of the process use the option "emit". 
+This name can be used later to reference the channel in the workflow 
+
+```
+process foo {
+  output:
+    path '*.bam', emit: samples_bam
+
+  '''
+  your_command --here
+  '''
+}
+
+workflow {
+    foo()
+    foo.out.samples_bam.view()
+}
+```
+#### Process named stdout 
+
+Same, "emit" can be used to call the stdout 
+ ```
+process sayHello {
+  input:
+    val cheers
+  output:
+   stdout emit:verbiag
+  '''
+  your_command --here
+  '''
+}
+
+workflow {
+    foo()
+    foo.out.samples_bam.view()
+}
+```
 ### Script
 
 ### Input 
