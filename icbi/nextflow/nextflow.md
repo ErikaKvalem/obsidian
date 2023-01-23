@@ -1,20 +1,50 @@
-Source: https://telatin.github.io/microbiome-bioinformatics/Nextflow-first-steps/
+source: https://www.nextflow.io/docs/latest/basic.html
 
+Basic concepts
+- Processes and channels 
+	Processes are executed independently, isolated from each other.
+		- The way processes communicate is via asynchronous FIFO queues called channels. 
+		- Any process : 1 or more channes as input/output 
+
+Example of script. 
 ```
-# Clone the repository
-git clone https://github.com/telatin/nextflow-example
-# Enter its directory
-cd nextflow-example
-# Download sample files
-bash getdata.sh
+// Declare syntax version
+nextflow.enable.dsl=2
+// Script parameters
+params.query = "/some/data/sample.fa"
+params.db = "/some/path/pdb"
+
+process blastSearch {
+  input:
+    path query
+    path db
+  output:
+    path "top_hits.txt"
+
+    """
+    blastp -db $db -query $query -outfmt 6 > blast_result
+    cat blast_result | head -n 10 | cut -f 2 > top_hits.txt
+    """
+}
+
+process extractTopHits {
+  input:
+    path top_hits
+
+  output:
+    path "sequences.txt"
+
+    """
+    blastdbcmd -db $db -entry_batch $top_hits > sequences.txt
+    """
+}
+
+workflow {
+   def query_ch = Channel.fromPath(params.query)
+   blastSearch(query_ch, params.db) | extractTopHits | view
+}
 ```
 
-
-Run pipeline from command line:
-- Parameters for the workflow
-- Parameters for Nextflow 
-	- single dash --> runtime nextflow (ex. -resume)
-	- double dasg --> pass to nextflow (ex. --input)
-
- 
- - 
+2 processes: 
+- blastSearch
+- extractTopHits 
