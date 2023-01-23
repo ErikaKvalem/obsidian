@@ -38,7 +38,42 @@ Process output
 Process named output
 Process named stdout
 
-#### workflows
+#### Workflows
 
 Workflow allows to define sub-workflow components that call [[processes]] & [[operators]]
 ```
+
+workflow my_pipeline {
+    foo()
+    bar( foo.out.collect() )
+}
+```
+
+Example: Workflow name "my_pipeline"
+
+Workflow Parameters: 
+- Can access any variable/ parameters defined outside the workflow 
+```
+params.data = "/some/data/file"
+workflow my_pipeline {
+	if (params.data)
+		bar(params.data)
+	else
+		bar(foo())
+}
+```
+Workflow Input
+Workflow Output 
+Workflow named Output 
+Workflow entrypoint
+Workflow composition
+
+#### Modules 
+
+Module inclusion
+Module directory
+Module inclusions
+Module aliases
+Module parameters
+Module templates 
+Module 
