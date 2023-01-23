@@ -1,7 +1,8 @@
 source: https://www.nextflow.io/docs/latest/basic.html
 
-Basic concepts
-- Processes and channels 
+##  Basic concepts
+- ### Processes and channels 
+	Process: WHAT COMMAND/SCRIPT has to be executed. 
 	Processes are executed independently, isolated from each other.
 		- The way processes communicate is via asynchronous FIFO queues called channels. 
 		- Any process : 1 or more channes as input/output 
@@ -48,3 +49,15 @@ workflow {
 2 processes: 
 - blastSearch
 - extractTopHits 
+Order:  ``` blastSearch(query_ch, params.db) | extractTopHits```
+Given by the pipeline 
+When the first process emits a value --> the second process receive it. 
+
+Creates 2 processes & 1 channel ```query_ch```
+- Both process start at the same time 
+- They get input from the respective channels
+
+### Execution abstraction 
+
+Executor: How the script given by the process is actually run on the target system. 
+
