@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "nextflow/processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "nextflow/processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "nextflow/processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nextflow/DSL2.md"
+                "file": "nextflow/processes.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "323fe89ddbe7ecb2",
   "lastOpenFiles": [
+    "nextflow/DSL2.md",
+    "nextflow/processes.md",
     "nextflow/configuration.md",
     "nextflow/executors.md",
     "nextflow/operators.md",
     "nextflow/containers.md",
-    "nextflow/DSL2.md",
     "nextflow/channels.md",
     "nextflow/basic_concepts.md",
-    "nextflow/processes.md",
     "nextflow/nextflow_scripting.md",
     "scRNAseq/scRNAseq_theory_thesis_lab.md"
   ]

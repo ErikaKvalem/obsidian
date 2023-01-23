@@ -3,7 +3,8 @@ Specify the syntax extension
 ```
 nextflow.enable.dsl=2
 ```
-### 
+### Functions
+
 Custom functions: 
 
 ```
@@ -25,3 +26,6 @@ Function hello_world, returns the string "hello world" and function bar reutrns 
 
 ```return```
 Keyword to explicit exit a function and return specific value 
+
+### Process [[processes]]
+
