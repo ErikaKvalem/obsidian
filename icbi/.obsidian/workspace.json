@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "323fe89ddbe7ecb2",
+            "id": "2020e594da231696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nextflow/DSL2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a03b6b6868f9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/processes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8402b6cc1054aaaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/DSL2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d93503c1901ec23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "literature/microbiota literature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "literature/microbiota literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nextflow/DSL2.md",
+                "file": "literature/microbiota literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nextflow/DSL2.md"
+                "file": "literature/microbiota literature.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d93503c1901ec23",
+  "active": "2020e594da231696",
   "lastOpenFiles": [
+    "nextflow/containers.md",
+    "literature/microbiota literature.md",
+    "literature/Template.md",
+    "nextflow/DSL2.md",
     "nextflow/Untitled.md",
     "R Analysis/structuralvariants_breakpoints.png",
-    "nextflow/DSL2.md",
     "nextflow/processes.md",
     "nextflow/doubts.md",
     "nextflow/basic_concepts.md",
-    "nextflow/configuration.md",
-    "nextflow/executors.md",
-    "nextflow/operators.md",
-    "nextflow/containers.md"
+    "nextflow/configuration.md"
   ]
 }
