@@ -14,4 +14,5 @@
 	 Skelly et al., Nature Reviews Immunology, 2019; 19(5), 305-323.
 8. Tanoue et al., Nature, 2019;  565(7741):600-605
 9. Powell, K. (2020). Technology Feature| Can patients' gut microbes help fight cancer?. Science, 370(6519), 997-1000
-10. Skelly et al., Nature Reviews Immunology, 2019; 19(5), 305-323.
+11. Co et al., Cell Reports, 2019; 26(9): 2509-2520.
+12. Chen et al., Cancer Biology & Medicine, 2022;  19(12):1629-1648.
