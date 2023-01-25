@@ -6,4 +6,10 @@
 	Helmink et al., Nature  Medicine, 2019; 25(3):377-388
 4. Cross-reactivity between tumor MHC class I-restricted antigens and an enterococcal bacteriophage
 	Fluckiger, …, Zitvogel et al., Science (2020); 369(6506):936–942
-5. 
+5. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets
+	10.1038/nbt.3988 . https://doi.org/10.1038/nbt.3988
+6. Secreted NF-κB suppressive microbial metabolites modulate gut inflammation
+	 Giri et al., Cell Reports, 2022;  39(2):11064
+7. Mining the microbiota for microbial and metabolite-based immunotherapies
+	 Skelly et al., Nature Reviews Immunology, 2019; 19(5), 305-323.
+	 
