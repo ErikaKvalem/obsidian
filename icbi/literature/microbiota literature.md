@@ -12,4 +12,6 @@
 	 Giri et al., Cell Reports, 2022;  39(2):11064
 7. Mining the microbiota for microbial and metabolite-based immunotherapies
 	 Skelly et al., Nature Reviews Immunology, 2019; 19(5), 305-323.
-	 
+8. Tanoue et al., Nature, 2019;  565(7741):600-605
+9. Powell, K. (2020). Technology Feature| Can patients' gut microbes help fight cancer?. Science, 370(6519), 997-1000
+10. Skelly et al., Nature Reviews Immunology, 2019; 19(5), 305-323.
