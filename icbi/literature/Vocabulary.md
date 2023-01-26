@@ -27,5 +27,12 @@ Forward Scatter (FSC) - relative to size
 Side Scatter (SSC) - relative to granularity ( the more stuff inside their cytoplasm, the larger side scatter and the more granular they are  )
 
 Short fatty acids 
-Butyrate
-Acetate
+[Formate](https://en.wikipedia.org/wiki/Formate "Formate")
+[Acetate](https://en.wikipedia.org/wiki/Acetate "Acetate")
+[Propionate](https://en.wikipedia.org/wiki/Propionate "Propionate")
+[Butyrate](https://en.wikipedia.org/wiki/Butyrate "Butyrate")
+[Isobutyrate](https://en.wikipedia.org/wiki/Isobutyrate "Isobutyrate")
+[Valerate](https://en.wikipedia.org/wiki/Valerate "Valerate")
+[Isovalerate](https://en.wikipedia.org/wiki/Isovalerate "Isovalerate")
+[2-Methylbutanoate](https://en.wikipedia.org/wiki/2-Methylbutanoic_acid "2-Methylbutanoic acid")
+
