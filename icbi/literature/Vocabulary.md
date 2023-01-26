@@ -18,3 +18,5 @@ Colonocyte - Epithelial cell of the colon
 
 #Flow_cytometry
 #exon_sequencing 
+#WGS whole genome sequencing - comprehensive view of the genome (coding, non-coding and mitochondrial DNA)
+#WES whole exon sequencing - target the protein coding regions of the genome , detects coding variants 
