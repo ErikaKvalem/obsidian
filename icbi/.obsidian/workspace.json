@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/microbiota literature.md",
+                "file": "literature/microbiota_literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/microbiota literature.md",
+                "file": "literature/microbiota_literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/microbiota literature.md",
+                "file": "literature/microbiota_literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/microbiota literature.md"
+                "file": "literature/microbiota_literature.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "2020e594da231696",
   "lastOpenFiles": [
     "nextflow/containers.md",
-    "literature/microbiota literature.md",
+    "literature/microbiota_literature.md",
     "literature/Template.md",
     "nextflow/DSL2.md",
     "nextflow/Untitled.md",
