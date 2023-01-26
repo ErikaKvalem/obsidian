@@ -25,3 +25,7 @@ Flow cytometry
 FACS - Fluorescence activated cell sorting (FACS)
 Forward Scatter (FSC) - relative to size
 Side Scatter (SSC) - relative to granularity ( the more stuff inside their cytoplasm, the larger side scatter and the more granular they are  )
+
+Short fatty acids 
+Butyrate
+Acetate
