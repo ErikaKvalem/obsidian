@@ -8,3 +8,5 @@ Colonocyte - Epithelial cell of the colon
 #synteny_analysis
 #BGCs Biosynthetic gene clusters 
 #immune_homeostasis
+#cancer_imunosurveillance
+#dysbiosis
