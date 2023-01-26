@@ -23,11 +23,9 @@
             "id": "c9661964e6fbeae7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "literature/Vocabulary.md",
-                "mode": "source",
-                "source": false
+                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/Vocabulary.md",
+                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/Vocabulary.md",
+                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/Vocabulary.md"
+                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md"
               }
             }
           }
@@ -161,6 +159,7 @@
   },
   "active": "c9661964e6fbeae7",
   "lastOpenFiles": [
+    "literature/Vocabulary.md",
     "literature/bacteria.md",
     "literature/microbiota_literature.md",
     "nextflow/containers.md",
@@ -169,7 +168,6 @@
     "nextflow/Untitled.md",
     "R Analysis/structuralvariants_breakpoints.png",
     "nextflow/processes.md",
-    "nextflow/doubts.md",
-    "nextflow/basic_concepts.md"
+    "nextflow/doubts.md"
   ]
 }
