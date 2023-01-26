@@ -10,3 +10,5 @@ Colonocyte - Epithelial cell of the colon
 #immune_homeostasis
 #cancer_imunosurveillance
 #dysbiosis
+#enterotype
+#β-Hydroxybutyric_acid 
