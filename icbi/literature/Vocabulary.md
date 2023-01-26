@@ -12,3 +12,4 @@ Colonocyte - Epithelial cell of the colon
 #dysbiosis
 #enterotype
 #β-Hydroxybutyric_acid 
+#gavage - sonda 
