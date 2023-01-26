@@ -15,3 +15,6 @@ Colonocyte - Epithelial cell of the colon
 #gavage - sonda 
 #antineoplastic - Antineoplastic drugs are medications used to treat cancer. Other names for antineoplastic drugs are anticancer, chemotherapy, chemo, cytotoxic, or hazardous drugs.
 #shotgun_metagenomic_sequencing   - Shotgun metagenomic sequencing **allows researchers to comprehensively sample all genes in all organisms present in a given complex sample**. The method enables microbiologists to evaluate bacterial diversity and detect the abundance of microbes in various environments (Metagenomic NGS (mNGS))
+
+#Flow_cytometry
+#exon_sequencing 

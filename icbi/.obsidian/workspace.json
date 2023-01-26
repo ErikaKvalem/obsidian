@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
+                "file": "literature/Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
+                "file": "literature/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BioStatistics/Vocabulary.md",
+                "file": "literature/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BioStatistics/Vocabulary.md"
+                "file": "literature/Vocabulary.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c9661964e6fbeae7",
   "lastOpenFiles": [
-    "literature/bacteria.md",
     "BioStatistics/Vocabulary.md",
+    "literature/bacteria.md",
     "literature/Vocabulary.md",
     "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
     "literature/microbiota_literature.md",

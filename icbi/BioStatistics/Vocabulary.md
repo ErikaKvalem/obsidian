@@ -18,3 +18,5 @@ PCoA  - Principal coordinate analysis
 bray curtis dissimilarity https://en.wikipedia.org/wiki/Bray%E2%80%93Curtis_dissimilarity
 
 LDA # Linear discriminant analysis  https://en.wikipedia.org/wiki/Linear_discriminant_analysis
+
+LEfSe (Linear discriminant analysis Effect Size)
