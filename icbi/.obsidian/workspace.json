@@ -161,15 +161,15 @@
   },
   "active": "c9661964e6fbeae7",
   "lastOpenFiles": [
-    "literature/Vocabulary.md",
     "literature/bacteria.md",
+    "BioStatistics/Vocabulary.md",
+    "literature/Vocabulary.md",
     "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
     "literature/microbiota_literature.md",
     "nextflow/containers.md",
     "literature/Template.md",
     "nextflow/DSL2.md",
     "nextflow/Untitled.md",
-    "R Analysis/structuralvariants_breakpoints.png",
-    "nextflow/processes.md"
+    "R Analysis/structuralvariants_breakpoints.png"
   ]
 }
