@@ -23,9 +23,11 @@
             "id": "c9661964e6fbeae7",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md"
+                "file": "BioStatistics/Vocabulary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
+                "file": "BioStatistics/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
+                "file": "BioStatistics/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md"
+                "file": "BioStatistics/Vocabulary.md"
               }
             }
           }
@@ -161,13 +163,13 @@
   "lastOpenFiles": [
     "literature/Vocabulary.md",
     "literature/bacteria.md",
+    "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
     "literature/microbiota_literature.md",
     "nextflow/containers.md",
     "literature/Template.md",
     "nextflow/DSL2.md",
     "nextflow/Untitled.md",
     "R Analysis/structuralvariants_breakpoints.png",
-    "nextflow/processes.md",
-    "nextflow/doubts.md"
+    "nextflow/processes.md"
   ]
 }

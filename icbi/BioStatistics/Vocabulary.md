@@ -9,3 +9,8 @@ lfcSE
 tpm 
 
 FPKM (**Fragments per kilo base of transcript per million mapped fragments**)
+
+PCA  - Principal component analysis
+	PCA focuses on shared variance: it tries to summarize multiple variables in the minimum number of components so that each component explains the most variance.
+PCoA  - Principal coordinate analysis
+	PCoA on the other hand focuses on distances, and it tries to extract the dimensions that account for the maximum distances.
