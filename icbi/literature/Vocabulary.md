@@ -20,3 +20,8 @@ Colonocyte - Epithelial cell of the colon
 #exon_sequencing 
 #WGS whole genome sequencing - comprehensive view of the genome (coding, non-coding and mitochondrial DNA)
 #WES whole exon sequencing - target the protein coding regions of the genome , detects coding variants 
+
+Flow cytometry 
+FACS - Fluorescence activated cell sorting (FACS)
+Forward Scatter (FSC) - relative to size
+Side Scatter (SSC) - relative to granularity ( the more stuff inside their cytoplasm, the larger side scatter and the more granular they are  )
