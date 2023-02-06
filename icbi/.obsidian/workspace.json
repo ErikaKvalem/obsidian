@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "89e5fffd2bb9946e",
+        "id": "7439d93afb6d9ea5",
         "type": "tabs",
         "children": [
           {
-            "id": "2020e594da231696",
+            "id": "e39df9934ed8a11a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature/microbiota_literature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9661964e6fbeae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "literature/Vocabulary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9661964e6fbeae7",
+  "active": "e39df9934ed8a11a",
   "lastOpenFiles": [
+    "literature/Vocabulary.md",
     "BioStatistics/Vocabulary.md",
     "literature/bacteria.md",
-    "literature/Vocabulary.md",
     "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
     "literature/microbiota_literature.md",
     "nextflow/containers.md",
