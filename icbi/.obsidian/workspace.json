@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dca3264c5ab5f08a",
+        "id": "14ca47dab3344a63",
         "type": "tabs",
         "children": [
           {
-            "id": "119be3c8d98d86a6",
+            "id": "c6e1149b8774fe79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "literature/The consensus molecular subtypes of colorectal cancer.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "119be3c8d98d86a6",
+  "active": "c6e1149b8774fe79",
   "lastOpenFiles": [
+    "literature/The consensus molecular subtypes of colorectal cancer.md",
     "literature/Anticancer action of caloric restrictions via microbiota.md",
     "literature/Vocabulary.md",
     "BioStatistics/Vocabulary.md",
@@ -148,7 +157,6 @@
     "literature/microbiota_literature.md",
     "nextflow/containers.md",
     "literature/Template.md",
-    "nextflow/DSL2.md",
-    "nextflow/Untitled.md"
+    "nextflow/DSL2.md"
   ]
 }
