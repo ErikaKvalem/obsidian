@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7439d93afb6d9ea5",
+        "id": "dca3264c5ab5f08a",
         "type": "tabs",
         "children": [
           {
-            "id": "e39df9934ed8a11a",
+            "id": "119be3c8d98d86a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e39df9934ed8a11a",
+  "active": "119be3c8d98d86a6",
   "lastOpenFiles": [
+    "literature/Anticancer action of caloric restrictions via microbiota.md",
     "literature/Vocabulary.md",
     "BioStatistics/Vocabulary.md",
     "literature/bacteria.md",
@@ -148,7 +149,6 @@
     "nextflow/containers.md",
     "literature/Template.md",
     "nextflow/DSL2.md",
-    "nextflow/Untitled.md",
-    "R Analysis/structuralvariants_breakpoints.png"
+    "nextflow/Untitled.md"
   ]
 }
