@@ -11,11 +11,9 @@
             "id": "c6e1149b8774fe79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
-                "mode": "source",
-                "source": false
+                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
+                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/The consensus molecular subtypes of colorectal cancer.md",
+                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/The consensus molecular subtypes of colorectal cancer.md"
+                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md"
               }
             }
           }
