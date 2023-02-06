@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14ca47dab3344a63",
+        "id": "d3c110605343f7dd",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e1149b8774fe79",
+            "id": "099337e548932435",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6e1149b8774fe79",
+  "active": "099337e548932435",
   "lastOpenFiles": [
+    "literature/microbiota_literature.md",
+    "literature/High-resolution single-cell atlas reveals diversity and plasticity of tissue -resident neutrophils in non-small cell lung cancer.md",
     "literature/The consensus molecular subtypes of colorectal cancer.md",
     "literature/Anticancer action of caloric restrictions via microbiota.md",
     "literature/Vocabulary.md",
     "BioStatistics/Vocabulary.md",
     "literature/bacteria.md",
     "literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
-    "literature/microbiota_literature.md",
     "nextflow/containers.md",
-    "literature/Template.md",
-    "nextflow/DSL2.md"
+    "literature/Template.md"
   ]
 }
