@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "372715779fe3119c",
+        "id": "c874cee640f3a578",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb7b04a0064de5b",
+            "id": "236cef710ce812a4",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "icbi/literature/Secreted NF-kB suppresive microbial metabolites modulate gut inflammation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb7b04a0064de5b",
+  "active": "236cef710ce812a4",
   "lastOpenFiles": [
-    "icbi/literature/Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome2asdad.md",
-    "Vocabulary^.md",
-    "icbi/literature/Vocabulary.md",
-    "icbi/literature/Current best practices in single-cell RNA-seq analysis a tutorial.md",
-    "title.md",
-    "icbi/literature/Interesting literature.md",
-    "Amplicon sequence variants (ASVs).md",
-    "ASVs.md",
-    "icbi/literature/Identification of neoantigens for individualized therapeutic cancer vaccines.md",
-    "icbi/literature/Identification of bacteria-derived HLA-bound peptides in melanoma.md"
+    "icbi/microbial_metabolites/microbial metabolites project.md",
+    "icbi/literature/Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses.md",
+    "icbi/literature/Identification of astrocyte regulators by nucleic acid cytometry\".md",
+    "icbi/literature/A defined commensal consortium elicits CD8 T cells and anti-cancer immunity.md",
+    "icbi/Untitled.md",
+    "icbi/R Analysis/FluidigmC1.png",
+    "README.md",
+    "icbi/R Analysis/plate_based.png",
+    "icbi/R Analysis/molecular_biology_dogma.png",
+    "icbi/R Analysis/microfluidic_device_sc.png"
   ]
 }

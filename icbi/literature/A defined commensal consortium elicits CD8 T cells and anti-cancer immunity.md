@@ -81,3 +81,15 @@ Isolate specific bacteria strain that can induce the accumulation of IFgCD8T in 
 
 5. Dicussion
 Isolation of 11 bacteria strain that have positive effect on the host immune control agains infectious pathogens as well as enhance immunotherapy efficaty and negate the colitogenic side effects. 
+
+CHAT gpt summary
+
+1.  The study focuses on the role of gut bacteria (also known as the gut microbiome) in promoting a healthy immune system and fighting against cancer.
+    
+2.  The researchers identified a specific group of gut bacteria (known as a "commensal consortium") that, when present in the gut, can enhance the function of immune cells called CD8 T cells.
+    
+3.  CD8 T cells play a crucial role in recognizing and destroying cancer cells. The researchers found that the presence of the commensal consortium in the gut increased the number and activity of CD8 T cells, leading to better anti-cancer immunity.
+    
+4.  The study also showed that transplanting the commensal consortium into mice with cancer led to a significant reduction in the size and growth of tumors, demonstrating the potential therapeutic value of this group of gut bacteria.
+    
+5.  The results of this study suggest that maintaining a healthy gut microbiome through diet, probiotics, or other means may be a promising strategy for boosting anti-cancer immunity and treating cancer.
